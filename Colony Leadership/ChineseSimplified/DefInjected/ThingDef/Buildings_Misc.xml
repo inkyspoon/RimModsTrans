@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spots -->
+
+  <TeachingSpot.label>讲台</TeachingSpot.label>
+  <TeachingSpot.Description>指定一个上课的地点。</TeachingSpot.Description>
+  <TeachingSpot_Blueprint.label>讲台（蓝图）</TeachingSpot_Blueprint.label>
+  <TeachingSpot_Frame.label>讲台（建造中）</TeachingSpot_Frame.label>
+
+  <GlobeCL.label>地球仪</GlobeCL.label>
+  <GlobeCL.description>将地球仪放在教室里会增强教学效果。</GlobeCL.description>
+  <GlobeCL_Blueprint.label>地球仪（蓝图）</GlobeCL_Blueprint.label>
+  <GlobeCL_Blueprint_Install.label>地球仪（蓝图）</GlobeCL_Blueprint_Install.label>
+  <GlobeCL_Frame.label>地球仪（建造中）</GlobeCL_Frame.label>
+
+  <ChalkboardCL.label>黑板</ChalkboardCL.label>
+  <ChalkboardCL.description>将黑板放在教室里会增强教学效果。</ChalkboardCL.description>
+  <ChalkboardCL_Blueprint.label>黑板（蓝图）</ChalkboardCL_Blueprint.label>
+  <ChalkboardCL_Blueprint_Install.label>黑板（蓝图）</ChalkboardCL_Blueprint_Install.label>
+  <ChalkboardCL_Frame.label>黑板（建造中）</ChalkboardCL_Frame.label>
+
+  <BallotBox.label>选票箱</BallotBox.label>
+  <BallotBox.Description>选举会在选票箱附近举行，请将它建在一个安全舒适的室内场所</BallotBox.Description>
+  <BallotBox_Blueprint.label>选票箱（蓝图）</BallotBox_Blueprint.label>
+  <BallotBox_Frame.label>选票箱（建造中）</BallotBox_Frame.label>
+
+
+</LanguageData>

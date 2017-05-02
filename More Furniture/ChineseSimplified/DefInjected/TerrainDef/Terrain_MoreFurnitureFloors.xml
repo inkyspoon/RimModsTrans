@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpets Bed Green -->
+
+  <CarpetBedGreen.label>床绿色地毯</CarpetBedGreen.label>
+  <CarpetBedGreen.Description>一张绿色的地毯，可与床搭配。</CarpetBedGreen.Description>
+
+
+  <!-- Carpets Bed Orange -->
+
+  <CarpetBedOrange.label>床暗橙色地毯</CarpetBedOrange.label>
+  <CarpetBedOrange.Description>一张暗橙色的地毯，可与床搭配。</CarpetBedOrange.Description>
+
+
+  <!-- Carpets Bed Blue -->
+
+  <CarpetBedBlue.label>床天蓝色地毯</CarpetBedBlue.label>
+  <CarpetBedBlue.Description>一张天蓝色的地毯，可与床搭配。</CarpetBedBlue.Description>
+
+
+  <!-- Carpets Bed Maroon -->
+
+  <CarpetBedMaroon.label>床栗色地毯</CarpetBedMaroon.label>
+  <CarpetBedMaroon.Description>一张栗色的地毯，可与床搭配。</CarpetBedMaroon.Description>
+
+
+</LanguageData>

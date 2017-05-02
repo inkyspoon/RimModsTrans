@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PathAvoidPrefer.Name>偏好</PathAvoidPrefer.Name>
+  <PathAvoidNormal.Name>正常</PathAvoidNormal.Name>
+  <PathAvoidDislike.Name>不喜欢</PathAvoidDislike.Name>
+  <PathAvoidHate.Name>讨厌</PathAvoidHate.Name>
+  <PathAvoidStrong.Name>极端厌恶</PathAvoidStrong.Name>
+
+
+</LanguageData>
