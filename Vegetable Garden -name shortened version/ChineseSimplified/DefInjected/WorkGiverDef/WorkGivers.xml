@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOven.label>烘焙</DoBillsOven.label>
+  <DoBillsOven.verb>烘焙</DoBillsOven.verb>
+  <DoBillsOven.gerund>烘焙</DoBillsOven.gerund>
+
+  <DoBillsCanningstove.label>处理食物</DoBillsCanningstove.label>
+  <DoBillsCanningstove.verb>处理</DoBillsCanningstove.verb>
+  <DoBillsCanningstove.gerund>处理</DoBillsCanningstove.gerund>
+
+  <DoBillsHandCanningstove.label>处理食物</DoBillsHandCanningstove.label>
+  <DoBillsHandCanningstove.verb>处理</DoBillsHandCanningstove.verb>
+  <DoBillsHandCanningstove.gerund>处理</DoBillsHandCanningstove.gerund>
+
+  <DoBillsBake.label>制作糖果</DoBillsBake.label>
+  <DoBillsBake.verb>制作糖果</DoBillsBake.verb>
+  <DoBillsBake.gerund>制作糖果</DoBillsBake.gerund>
+
+  <DoBillsFcandytable.label>制作糖果</DoBillsFcandytable.label>
+  <DoBillsFcandytable.verb>制作</DoBillsFcandytable.verb>
+  <DoBillsFcandytable.gerund>制作</DoBillsFcandytable.gerund>
+
+  <DoBillsGrindStone.label>研磨谷物</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>研磨</DoBillsGrindStone.gerund>
+
+  <DoBillsTableLoom.label>纺织</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>纺织</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>纺织</DoBillsTableLoom.gerund>
+
+  <DoBillsUseUnpackingSpot.label>开酒箱</DoBillsUseUnpackingSpot.label>
+  <DoBillsUseUnpackingSpot.verb>开箱</DoBillsUseUnpackingSpot.verb>
+  <DoBillsUseUnpackingSpot.gerund>开箱</DoBillsUseUnpackingSpot.gerund>
+
+  <DoBillsUseDiggingSpot.label>挖掘土壤</DoBillsUseDiggingSpot.label>
+  <DoBillsUseDiggingSpot.verb>挖掘</DoBillsUseDiggingSpot.verb>
+  <DoBillsUseDiggingSpot.gerund>挖掘</DoBillsUseDiggingSpot.gerund>
+
+  <DoBillsCanningMachine.label>罐装食物</DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>罐装</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>罐装</DoBillsCanningMachine.gerund>
+
+  <DoBillsUseSaltMine.label>开采矿盐</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>采矿</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>采矿</DoBillsUseSaltMine.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyCrate_cider.label>清空苹果酒条板箱</EmptyCrate_cider.label>
+  <EmptyCrate_cider.description>从条板箱中取出所有酒瓶。</EmptyCrate_cider.description>
+  <EmptyCrate_cider.jobString>正在清空箱子。</EmptyCrate_cider.jobString>
+
+  <EmptyCrate_rum.label>清空朗姆酒条板箱</EmptyCrate_rum.label>
+  <EmptyCrate_rum.description>从条板箱中取出所有酒瓶。</EmptyCrate_rum.description>
+  <EmptyCrate_rum.jobString>正在清空箱子。</EmptyCrate_rum.jobString>
+
+  <EmptyCrate_Wine.label>清空葡萄酒条板箱</EmptyCrate_Wine.label>
+  <EmptyCrate_Wine.description>从条板箱中取出所有酒瓶。</EmptyCrate_Wine.description>
+  <EmptyCrate_Wine.jobString>正在清空箱子。</EmptyCrate_Wine.jobString>
+
+  <EmptyCrate_strawberrywine.label>清空草莓酒条板箱</EmptyCrate_strawberrywine.label>
+  <EmptyCrate_strawberrywine.description>从条板箱中取出所有酒瓶。</EmptyCrate_strawberrywine.description>
+  <EmptyCrate_strawberrywine.jobString>正在清空箱子。</EmptyCrate_strawberrywine.jobString>
+
+  <EmptyCrate_saki.label>清空清酒条板箱</EmptyCrate_saki.label>
+  <EmptyCrate_saki.description>从条板箱中取出所有酒瓶。</EmptyCrate_saki.description>
+  <EmptyCrate_saki.jobString>正在清空箱子。</EmptyCrate_saki.jobString>
+
+  <EmptyCrate_vodka.label>清空伏特加条板箱</EmptyCrate_vodka.label>
+  <EmptyCrate_vodka.description>从条板箱中取出所有酒瓶。</EmptyCrate_vodka.description>
+  <EmptyCrate_vodka.jobString>正在清空箱子。</EmptyCrate_vodka.jobString>
+
+  <EmptyCrate_tequila.label>清空龙舌兰酒条板箱</EmptyCrate_tequila.label>
+  <EmptyCrate_tequila.description>从条板箱中取出所有酒瓶。</EmptyCrate_tequila.description>
+  <EmptyCrate_tequila.jobString>正在清空箱子。</EmptyCrate_tequila.jobString>
+
+  <EmptyCrate_Whiskey.label>清空威士忌条板箱</EmptyCrate_Whiskey.label>
+  <EmptyCrate_Whiskey.description>从条板箱中取出所有酒瓶。</EmptyCrate_Whiskey.description>
+  <EmptyCrate_Whiskey.jobString>正在清空箱子。</EmptyCrate_Whiskey.jobString>
+
+
+</LanguageData>

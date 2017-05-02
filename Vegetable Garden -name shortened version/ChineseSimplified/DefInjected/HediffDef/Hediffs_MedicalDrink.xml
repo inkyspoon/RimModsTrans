@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalDrink.label>健康饮料</MedicalDrink.label>
+  <MedicalDrink.stages.0.label>微醺-隐藏</MedicalDrink.stages.0.label>
+  <MedicalDrink.stages.1.label>感觉更好了</MedicalDrink.stages.1.label>
+  <MedicalDrink.stages.2.label>增强免疫力</MedicalDrink.stages.2.label>
+  <MedicalDrink.stages.3.label>烂醉</MedicalDrink.stages.3.label>
+  <MedicalDrink.stages.4.label>过量</MedicalDrink.stages.4.label>
+  <MedicalDrink.stages.5.label>严重过量</MedicalDrink.stages.5.label>
+
+
+</LanguageData>

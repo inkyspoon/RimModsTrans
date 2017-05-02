@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSilage.label>制作青贮饲料</MakeSilage.label>
+  <MakeSilage.description>用干草和谷物制作青贮饲料。</MakeSilage.description>
+  <MakeSilage.jobString>正在制作青贮饲料。</MakeSilage.jobString>
+
+  <MakeFertilizer.label>制作肥料</MakeFertilizer.label>
+  <MakeFertilizer.description>用木材和生食做成肥料</MakeFertilizer.description>
+  <MakeFertilizer.jobString>正在制作料。</MakeFertilizer.jobString>
+
+  <VG_DigSoil.label>挖土</VG_DigSoil.label>
+  <VG_DigSoil.description>挖出土堆，以用制作肥料。</VG_DigSoil.description>
+  <VG_DigSoil.jobString>挖土中。</VG_DigSoil.jobString>
+
+
+</LanguageData>

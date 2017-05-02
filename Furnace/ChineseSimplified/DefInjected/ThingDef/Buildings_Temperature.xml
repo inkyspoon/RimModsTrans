@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Furnace.label>火炉</Furnace.label>
+  <Furnace.description>一个能将房间加热到极高温度来达到燃烧的目的，或作为加热器来给极大的地下综合建筑加热。</Furnace.description>
+  <Furnace_Blueprint.label>火炉（蓝图）</Furnace_Blueprint.label>
+  <Furnace_Frame.label>火炉（建造中）</Furnace_Frame.label>
+
+
+</LanguageData>

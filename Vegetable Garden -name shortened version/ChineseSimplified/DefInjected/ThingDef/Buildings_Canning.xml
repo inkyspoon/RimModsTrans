@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>罐头机</CanningFactory.label>
+  <CanningFactory.description>罐头机需要装载钢。能够把食物加工成罐头。</CanningFactory.description>
+  <CanningFactory_Blueprint.label>罐头机（蓝图）</CanningFactory_Blueprint.label>
+  <CanningFactory_Frame.label>罐头机（建造中）</CanningFactory_Frame.label>
+
+
+</LanguageData>

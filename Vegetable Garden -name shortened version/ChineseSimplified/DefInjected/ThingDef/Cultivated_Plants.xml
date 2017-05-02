@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New crop types -->
+
+  <!--[Core] <PlantPotato.label>potato plant</PlantPotato.label>-->
+  <!--[Core] <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>-->
+
+  <!--[Core] <PlantCorn.label>corn plant</PlantCorn.label>-->
+  <!--[Core] <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>-->
+
+  <!--[Core] <PlantRice.label>rice plant</PlantRice.label>-->
+  <!--[Core] <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>-->
+
+  <PlantSnowbeet.label>雪甜菜</PlantSnowbeet.label>
+  <PlantSnowbeet.description>简单的营养丰富的植物。即使在一些贫瘠的土壤中也能种植。收获迅速。一种强大的多用途的作物。在寒冷的气候下也不会枯萎。</PlantSnowbeet.description>
+
+  <Planteggplant.label>茄子</Planteggplant.label>
+  <Planteggplant.description>紫色的茄子品种。生吃有涩味。</Planteggplant.description>
+
+  <Plantredlentil.label>红扁豆</Plantredlentil.label>
+  <Plantredlentil.description>红色的扁豆品种。已知的最古老的人工种植作物之一。</Plantredlentil.description>
+
+  <Plantpumpkin.label>南瓜</Plantpumpkin.label>
+  <Plantpumpkin.description>大型的橙色南瓜品种。万圣节上常用来雕成南瓜头。</Plantpumpkin.description>
+
+  <Plantsquash.label>西葫芦</Plantsquash.label>
+  <Plantsquash.description>葫芦科南瓜属的黄色品种。</Plantsquash.description>
+
+  <Plantbean.label>黄豆</Plantbean.label>
+  <Plantbean.description>黄豆是烹饪中的常见材料。</Plantbean.description>
+
+  <PlantTomato.label>西红柿</PlantTomato.label>
+  <PlantTomato.description>鲜艳的红色果实，既是水果又是蔬菜，适宜种植在肥沃的土壤中。</PlantTomato.description>
+
+  <PlantCarrot.label>胡萝卜</PlantCarrot.label>
+  <PlantCarrot.description>一种长条状的橘红色蔬菜，即使在贫瘠的土壤中也能种植。</PlantCarrot.description>
+
+  <Plantmushroom.label>蘑菇</Plantmushroom.label>
+  <Plantmushroom.description>这种经过转基因处理的壮硕蘑菇可以作为肉食的替代品。</Plantmushroom.description>
+
+  <Plantoats.label>燕麦</Plantoats.label>
+  <Plantoats.description>一种低糖、高营养、高能量的谷物。</Plantoats.description>
+
+  <Plantwheat.label>小麦</Plantwheat.label>
+  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
+
+  <!--[Core] <PlantHaygrass.label>haygrass</PlantHaygrass.label>-->
+  <!--[Core] <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>-->
+
+  <!--[Core] <PlantGrass.label>grass</PlantGrass.label>-->
+  <!--[Core] <PlantGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</PlantGrass.description>-->
+
+
+  <!-- New crop types Fruit Trees -->
+
+  <PlantAppletree.label>苹果树</PlantAppletree.label>
+  <PlantAppletree.description>苹果树，采摘后能保留树木。</PlantAppletree.description>
+
+  <PlantBananaTree.label>香蕉树</PlantBananaTree.label>
+  <PlantBananaTree.description>香蕉树，采摘后能保留树木。</PlantBananaTree.description>
+
+  <PlantorangeTree.label>橙树</PlantorangeTree.label>
+  <PlantorangeTree.description>橙树，采摘后能保留树木。</PlantorangeTree.description>
+
+  <PlantPeachTree.label>桃树</PlantPeachTree.label>
+  <PlantPeachTree.description>桃果，采摘后能保留树木。</PlantPeachTree.description>
+
+  <DateTree.label>海枣树</DateTree.label>
+  <DateTree.description>海枣树，采摘后能保留树木。</DateTree.description>
+
+  <FigTree.label>无花果树</FigTree.label>
+  <FigTree.description>无花果树，采摘后能保留树木。</FigTree.description>
+
+  <PlantCherrytree.label>樱桃树</PlantCherrytree.label>
+  <PlantCherrytree.description>樱桃树，采摘后能保留树木。</PlantCherrytree.description>
+
+  <PlantCoconuttree.label>椰子树</PlantCoconuttree.label>
+  <PlantCoconuttree.description>椰子树，采摘后能保留树木。</PlantCoconuttree.description>
+
+  <PlantOlivetree.label>橄榄树</PlantOlivetree.label>
+  <PlantOlivetree.description>橄榄树，采摘后能保留树木。</PlantOlivetree.description>
+
+  <Plantpineapple.label>菠萝</Plantpineapple.label>
+  <Plantpineapple.description>一种在顶部结果的低矮植物，有点扎手。</Plantpineapple.description>
+
+  <Plantgrape.label>葡萄</Plantgrape.label>
+  <Plantgrape.description>能在细长藤蔓上结出甜蜜小果实的植物。</Plantgrape.description>
+
+  <Plantcloudberry.label>云莓</Plantcloudberry.label>
+  <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
+
+  <Plantgooseberry.label>醋粟</Plantgooseberry.label>
+  <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
+
+  <!--[Core] <PlantAgave.label>agave</PlantAgave.label>-->
+  <!--[Core] <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>-->
+
+  <!--[Core] <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>-->
+  <!--[Core] <PlantStrawberry.description>A fragile but tasty fruit. Delicious even when raw.</PlantStrawberry.description>-->
+
+  <Plantblueberry.label>蓝莓</Plantblueberry.label>
+  <Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>
+
+  <Plantwatermelon.label>西瓜</Plantwatermelon.label>
+  <Plantwatermelon.description>这种水果富含维生素A和C，可以生吃，也可以用多种方法进行烹调。</Plantwatermelon.description>
+
+  <Plantcocoa.label>可可树</Plantcocoa.label>
+  <Plantcocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plantcocoa.description>
+
+  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
+  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
+
+  <PlantTea.label>茶树</PlantTea.label>
+  <PlantTea.description>一种灌木。叶子可以冲泡成美味的饮料。</PlantTea.description>
+
+  <PlantCoffee.label>咖啡树</PlantCoffee.label>
+  <PlantCoffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</PlantCoffee.description>
+
+  <!--[Core] <PlantHops.label>hop plant</PlantHops.label>-->
+  <!--[Core] <PlantHops.description>A flowering plant that yields hops, and essential ingredient in beer.</PlantHops.description>-->
+
+  <Plantaloe.label>芦荟</Plantaloe.label>
+  <Plantaloe.description>芦荟，纯天然的药物。</Plantaloe.description>
+
+  <!--[Core] <PlantHealroot.label>healroot</PlantHealroot.label>-->
+  <!--[Core] <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>-->
+
+  <!--[Core] <PlantCotton.label>cotton plant</PlantCotton.label>-->
+  <!--[Core] <PlantCotton.description>Yields cotton, a fine plant fiber used to make cloth.</PlantCotton.description>-->
+
+  <!--[Core] <PlantDevilstrand.label>devilstrand</PlantDevilstrand.label>-->
+  <!--[Core] <PlantDevilstrand.description>This fragile mushroom was genetically engineered to produce a silk net of the highest grade. Long rumored to have mystical properties, it owes its name to the greed it inspires in people.</PlantDevilstrand.description>-->
+
+  <PlantFlax.label>亚麻花</PlantFlax.label>
+  <PlantFlax.description>这种花的纤维可以被编织成亚麻布。</PlantFlax.description>
+
+  <PlantSteelLeaf.label>钢铁叶</PlantSteelLeaf.label>
+  <PlantSteelLeaf.description>枝叶浓密的植物，脉络中富含铁，可以通过提炼得到钢铁。</PlantSteelLeaf.description>
+
+  <PlantPlasteelLeaf.label>玻璃钢叶</PlantPlasteelLeaf.label>
+  <PlantPlasteelLeaf.description>枝叶浓密的植物，脉络中富含玻璃钢，可以通过提炼得到玻璃钢。</PlantPlasteelLeaf.description>
+
+  <PlantGoldLeaf.label>黄金叶</PlantGoldLeaf.label>
+  <PlantGoldLeaf.description>枝叶浓密的植物，脉络中富含金，可以通过提炼得到钢铁。</PlantGoldLeaf.description>
+
+  <PlantSilverLeaf.label>白银叶</PlantSilverLeaf.label>
+  <PlantSilverLeaf.description>枝叶浓密的植物，脉络中富含银，可以通过提炼得到钢铁。</PlantSilverLeaf.description>
+
+  <PlantUraniumLeaf.label>铀叶</PlantUraniumLeaf.label>
+  <PlantUraniumLeaf.description>枝叶浓密的植物，脉络中富含铀，可以通过提炼得到钢铁。</PlantUraniumLeaf.description>
+
+  <PlantNeutroFlower.label>中性花</PlantNeutroFlower.label>
+  <PlantNeutroFlower.description>一种漂亮黄橙色花朵。用于制作中性胺和药物。</PlantNeutroFlower.description>
+
+  <Plantbamboo.label>竹</Plantbamboo.label>
+  <Plantbamboo.description>一种速生型草本植物。</Plantbamboo.description>
+
+  <!--[Core] <PlantRaspberry.label>raspberry bush</PlantRaspberry.label>-->
+  <!--[Core] <PlantRaspberry.description>A bushy plant which yields delicious red berries.</PlantRaspberry.description>-->
+
+
+</LanguageData>

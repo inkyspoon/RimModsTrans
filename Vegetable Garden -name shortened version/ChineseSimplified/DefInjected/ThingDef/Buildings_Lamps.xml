@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <SunLamp.label>sun lamp</SunLamp.label>-->
+  <!--[Core] <SunLamp.description>Lights an area brightly enough to grow crops.</SunLamp.description>-->
+  <!--[Core] <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>-->
+  <!--[Core] <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>-->
+
+  <SmallSunLamp.label>太阳灯（中）</SmallSunLamp.label>
+  <SmallSunLamp.description>将一片区域照亮到足以种植农作物。适合室内种植，代替太阳提供光源。</SmallSunLamp.description>
+  <SmallSunLamp_Blueprint.label>太阳灯（中） （藍圖）</SmallSunLamp_Blueprint.label>
+  <SmallSunLamp_Frame.label>太阳灯（中）（建造中）</SmallSunLamp_Frame.label>
+
+  <MiniSunLamp.label>太阳灯（小）</MiniSunLamp.label>
+  <MiniSunLamp.description>将一片区域照亮到足以种植农作物。适合室内种植，代替太阳提供光源。</MiniSunLamp.description>
+  <MiniSunLamp_Blueprint.label>太阳灯（小） （藍圖）</MiniSunLamp_Blueprint.label>
+  <MiniSunLamp_Frame.label>太阳灯（小）（建造中）</MiniSunLamp_Frame.label>
+
+  <VG_DiggingSpot.label>挖土點</VG_DiggingSpot.label>
+  <VG_DiggingSpot.description>用來挖掘土堆，只能放置在土壤上。</VG_DiggingSpot.description>
+  <VG_DiggingSpot_Blueprint.label>挖土點 （藍圖）</VG_DiggingSpot_Blueprint.label>
+  <VG_DiggingSpot_Frame.label>挖土點（建造中）</VG_DiggingSpot_Frame.label>
+
+
+</LanguageData>

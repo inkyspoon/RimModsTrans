@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drugs -->
+
+  <Cigarillos.label>小雪茄</Cigarillos.label>
+  <Cigarillos.description>一支小雪茄。</Cigarillos.description>
+  <Cigarillos.ingestible.ingestCommandString>抽{0}</Cigarillos.ingestible.ingestCommandString>
+  <Cigarillos.ingestible.ingestReportString>正在抽{0}。</Cigarillos.ingestible.ingestReportString>
+
+
+</LanguageData>

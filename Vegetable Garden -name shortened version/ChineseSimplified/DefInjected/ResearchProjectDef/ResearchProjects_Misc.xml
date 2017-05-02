@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main Categories -->
+
+  <agriculture.label>农业 I</agriculture.label>
+  <agriculture.description>研究植物基因，解锁新的植物种植。\n\n解锁一些蔬菜的种植。\n\n解锁种植「茄子」、「黄豆」、「南瓜」、「西葫芦」、「番茄」、「红扁豆」、「蘑菇」。</agriculture.description>
+
+  <agricultureII.label>农业 II</agricultureII.label>
+  <agricultureII.description>研究植物基因，解锁新的植物种植。\n\n解锁部分水果的种植。水果富含营养，烹饪成食物的消耗较低。\n\n解锁种植「菠萝」、「葡萄」、「云莓」、「醋栗」、「龙舌兰」、「草莓」、「蓝莓」、「西瓜」。 </agricultureII.description>
+
+  <agricultureIII.label>农业 III</agricultureIII.label>
+  <agricultureIII.description>研究植物基因，解锁新的植物种植。\n\n解锁部分水果的种植。果树生长周期长，但是可以反覆收获果实。\n\n解锁种植「苹果」、「香蕉」、「樱桃」、「橄榄」、「橙」、「桃」、「海枣」、「无花果」。</agricultureIII.description>
+
+  <flowersandtrees.label>花卉与树木</flowersandtrees.label>
+  <flowersandtrees.description>研究额外的花卉和树木种植。</flowersandtrees.description>
+
+  <resourceleafs.label>资源作物</resourceleafs.label>
+  <resourceleafs.description>研究能从土壤中吸收金属的的植物，可以用来在电提炼器中提炼金属。</resourceleafs.description>
+
+  <CookingI.label>高级烹饪</CookingI.label>
+  <CookingI.description>研究高级烹饪仪器的制作方法。\n解锁「炉灶」、「糖果桌」</CookingI.description>
+
+  <SoilReclam.label>土壤改良 I</SoilReclam.label>
+  <SoilReclam.description>研究开垦可耕种土壤的方法。 \n\n解锁在光滑岩石地板上铺设人工土地。\n\n解锁「地面」菜单中的「铺设土壤」。</SoilReclam.description>
+
+  <SoilReclamII.label>土壤改良 II</SoilReclamII.label>
+  <SoilReclamII.description>研究将沙地、湿软的土地、泥地、沼泽、沙砾改造成可耕种的土壤的方法。\n\n解锁肥沃的耕地——一种极高肥沃度的耕地。 \n\n解锁「地面」菜单中的「肥沃耕地」和「垦荒土壤」。</SoilReclamII.description>
+
+  <AdvancedHydroponics.label>高级水栽培</AdvancedHydroponics.label>
+  <AdvancedHydroponics.description>解锁建造「水栽培植物盆（高级）」，在室内快速种植作物，不受土壤贫瘠和室外天气的影响。比普通的水栽培植物盆消耗更多的材料和电力，但能提供光照。并且作物的生长速度更快。</AdvancedHydroponics.description>
+
+  <HeatedSunlamps.label>加热太阳灯</HeatedSunlamps.label>
+  <HeatedSunlamps.description>允许您构建先进的太阳灯，以提供光照和作为一个小型加热器来种植作物。</HeatedSunlamps.description>
+
+  <CanningMachine.label>罐头技术</CanningMachine.label>
+  <CanningMachine.description>研究如何把食品保存于罐头方法。 \n\n 解锁压罐机、肉类罐头、蔬菜罐头、食物罐头。</CanningMachine.description>
+
+
+</LanguageData>

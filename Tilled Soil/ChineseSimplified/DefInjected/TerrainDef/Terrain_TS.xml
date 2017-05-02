@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dirt.label>泥土</Dirt.label>
+  <Dirt.Description>字面意思。</Dirt.Description>
+
+  <GT_SoilTilled.label>耕地</GT_SoilTilled.label>
+  <GT_SoilTilled.Description>耕地，更好地种植植物。</GT_SoilTilled.Description>
+
+
+</LanguageData>

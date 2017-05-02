@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fruitdrink.label>榨果汁</Fruitdrink.label>
+  <Fruitdrink.description>将水果榨成汁。</Fruitdrink.description>
+  <Fruitdrink.jobString>正在榨果汁。</Fruitdrink.jobString>
+
+  <MakeChocolatemilk.label>制作巧克力奶</MakeChocolatemilk.label>
+  <MakeChocolatemilk.description>混合巧克力和牛奶的美味饮料。</MakeChocolatemilk.description>
+  <MakeChocolatemilk.jobString>正在制作巧克力奶。</MakeChocolatemilk.jobString>
+
+  <Makehealthdrink.label>制作健康饮料</Makehealthdrink.label>
+  <Makehealthdrink.description>将草药和水果配成健康饮料。</Makehealthdrink.description>
+  <Makehealthdrink.jobString>正在配置健康饮料。</Makehealthdrink.jobString>
+
+  <Distillcider.label>酿造苹果酒</Distillcider.label>
+  <Distillcider.description>酿造苹果酒。</Distillcider.description>
+  <Distillcider.jobString>正在酿造苹果酒。</Distillcider.jobString>
+
+  <Distillrum.label>酿造朗姆酒</Distillrum.label>
+  <Distillrum.description>酿造朗姆酒。</Distillrum.description>
+  <Distillrum.jobString>正在酿造朗姆酒。</Distillrum.jobString>
+
+  <PressWine.label>酿造葡萄酒</PressWine.label>
+  <PressWine.description>酿造葡萄酒。</PressWine.description>
+  <PressWine.jobString>正在酿造葡萄酒。</PressWine.jobString>
+
+  <DistillStrawberryWine.label>酿造草莓酒</DistillStrawberryWine.label>
+  <DistillStrawberryWine.description>酿造草莓酒。</DistillStrawberryWine.description>
+  <DistillStrawberryWine.jobString>正在酿造草莓酒。</DistillStrawberryWine.jobString>
+
+  <DistillSaki.label>酿造清酒</DistillSaki.label>
+  <DistillSaki.description>酿造清酒。</DistillSaki.description>
+  <DistillSaki.jobString>正在酿造清酒。</DistillSaki.jobString>
+
+  <DistillVodka.label>酿造伏特加</DistillVodka.label>
+  <DistillVodka.description>酿造伏特加。</DistillVodka.description>
+  <DistillVodka.jobString>正在酿造伏特加。</DistillVodka.jobString>
+
+  <DistillTequila.label>酿造龙舌兰酒</DistillTequila.label>
+  <DistillTequila.description>酿造龙舌兰酒。</DistillTequila.description>
+  <DistillTequila.jobString>正在酿造龙舌兰酒。</DistillTequila.jobString>
+
+  <DistillWhisky.label>酿造威士忌</DistillWhisky.label>
+  <DistillWhisky.description>酿造威士忌。</DistillWhisky.description>
+  <DistillWhisky.jobString>正在酿造威士忌。</DistillWhisky.jobString>
+
+
+</LanguageData>
