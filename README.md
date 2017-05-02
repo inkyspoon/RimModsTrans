@@ -14,7 +14,7 @@ The number of the Mods supported will be updated regularly **but the period is n
     - 进度: 剩余12个，完成2个
 
 ## Download the Latest Releases 下载最新的翻译
-***Each downloadable zip file below only contains a single translation folder named ChineseSimplified. There are NO SOURCE FILE of any Mod included.***
+***Each downloadable zip file below only contains a single translation folder named ChineseSimplified and is mod-specialized. There are NO SOURCE FILE of any Mod included.***
 1. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/BNP1.0.0) for **Balanced Neutroamine Production** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=903253578&searchtext=Balanced+Neutroamine+Production) to view this Mod on Steam)
 2. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/DHCH1.0.0) for **Dubs Hygiene and Central Heating** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=836308268&searchtext=Dubs+Hygiene+and+Central+Heating) to view this Mod on Steam)
 3. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/Shld.1.0.0) for **ED-ShieldsBasic** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=726884610&searchtext=ed) to view this Mod on Steam)
