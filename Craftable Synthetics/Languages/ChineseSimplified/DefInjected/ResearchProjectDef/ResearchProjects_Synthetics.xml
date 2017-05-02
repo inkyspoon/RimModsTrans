@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SynthreadTechCrafting.label>CS ： 合成纤维</SynthreadTechCrafting.label>
+  <SynthreadTechCrafting.description>使你能用恶魔布，布料已经钢铁来制作合成纤维。</SynthreadTechCrafting.description>
+
+  <HyperweaveTechCrafting.label>CS : 超织物</HyperweaveTechCrafting.label>
+  <HyperweaveTechCrafting.description>用玻璃钢来增强你的合成纤维，解锁制造超织物！</HyperweaveTechCrafting.description>
+
+
+</LanguageData>

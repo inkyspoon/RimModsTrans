@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateSynthread.label>制作合成纤维</CreateSynthread.label>
+  <CreateSynthread.description>用恶魔布，布料已经钢铁来制作合成纤维。</CreateSynthread.description>
+  <CreateSynthread.jobString></CreateSynthread.jobString>
+
+  <CreateHyperweave.label>制作超织物</CreateHyperweave.label>
+  <CreateHyperweave.description>用合成纤维和玻璃钢来制作超织物。</CreateHyperweave.description>
+  <CreateHyperweave.jobString></CreateHyperweave.jobString>
+
+
+</LanguageData>
