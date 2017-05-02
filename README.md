@@ -30,13 +30,9 @@ I'm a **Computer Science** student in [University of Bristol](http://www.bristol
 
 我是一个英国留学生，现在在 [布里斯托大学](http://www.bristol.ac.uk/) 读**计算机科学**。**大一**。
 
-Sponsor me:
+Sponsor me:/赞助:
 
-赞助:
-
-WeChat: https://cloud.githubusercontent.com/assets/28267733/25626617/05451634-2f58-11e7-82ff-6bcb222028ed.jpg
-
-ApliPay: https://cloud.githubusercontent.com/assets/28267733/25626620/06a32c8c-2f58-11e7-8dac-41b64c23c084.jpg
-
+[WeChat](https://cloud.githubusercontent.com/assets/28267733/25626617/05451634-2f58-11e7-82ff-6bcb222028ed.jpg)
+[ApliPay](https://cloud.githubusercontent.com/assets/28267733/25626620/06a32c8c-2f58-11e7-8dac-41b64c23c084.jpg)
 [Paypal](paypal.me/JinyuZhou)
 
