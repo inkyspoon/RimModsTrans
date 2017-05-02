@@ -34,5 +34,6 @@ Sponsor me:/赞助:
 
 [WeChat](https://cloud.githubusercontent.com/assets/28267733/25626617/05451634-2f58-11e7-82ff-6bcb222028ed.jpg)
 [ApliPay](https://cloud.githubusercontent.com/assets/28267733/25626620/06a32c8c-2f58-11e7-8dac-41b64c23c084.jpg)
-[Paypal]：paypal.me/JinyuZhou
+
+Paypal：paypal.me/JinyuZhou
 
