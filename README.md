@@ -1,5 +1,8 @@
-# Descripition
+# RimModsTrans 边缘世界模组翻译
+# Description 简介
 [This GitHub Page](https://github.com/WishingLaws/RimModsTrans) is created by [WishingLaws](https://github.com/WishingLaws) in order to make a better collection of all my ChineseSimplified Translations for RimWorld Mods
+
+I'm one of the members in This is a personal managed page and is out
 ## Download the Latest Releases
 1. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/BNP1.0.0) for **Balanced Neutroamine Production** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=903253578&searchtext=Balanced+Neutroamine+Production) to view this Mod on Steam)
 2. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/DHCH1.0.0) for **Dubs Hygiene and Central Heating** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=836308268&searchtext=Dubs+Hygiene+and+Central+Heating) to view this Mod on Steam)
