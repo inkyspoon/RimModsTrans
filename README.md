@@ -1,6 +1,6 @@
 # RimModsTrans 边缘世界模组翻译
 ## Description 简介
-[This GitHub Page](https://github.com/WishingLaws/RimModsTrans) is created by [WishingLaws](https://github.com/WishingLaws) in order to make a better collection and conveneient update for all my ChineseSimplified translations to RimWorld Mods.
+[This GitHub Page](https://github.com/WishingLaws/RimModsTrans) is created by [WishingLaws](https://github.com/WishingLaws) in order to make a better collection and convenient update for all my ChineseSimplified translations to RimWorld Mods.
 
 [此页](https://github.com/WishingLaws/RimModsTrans) 由 [WishingLaws](https://github.com/WishingLaws) 创造，为的是给自己翻译的边缘世界模组的简体中文翻译文件做一个更简便的收集与更新。
 
