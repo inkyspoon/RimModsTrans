@@ -4,7 +4,7 @@
 
 [此页](https://github.com/WishingLaws/RimModsTrans) 由 [WishingLaws](https://github.com/WishingLaws) 创造，为的是给自己翻译的边缘世界模组的简体中文翻译文件做一个更简便的收集与更新。
 
-The number of the Mods supported will be updated regularly **but the period is not fixed as I'm doing Computer Science in UK** (Just nearly compelte my first year course). I've tried contacting the authors of thoses Mods I've translated to see if they can include my translations in their mods so that people don't have to check this page frequently to manually install my translations. If an Author do accept my suggestion and include my transltion in his/her next update, I'll mark that one below (I may still update them below).
+The number of the Mods supported will be updated regularly **but the period is not fixed as I'm doing Computer Science in UK** (Just near completing my first year course). I've tried contacting the authors of thoses Mods I've translated to see if they can include my translations in their mods so that people don't have to check this page frequently to manually install my translations. If an Author do accept my suggestion and include my transltion in his/her next update, I'll mark that one below (I may still update them below).
 
 支持的模组的数量将会不断地更新但是**更新周期并不是固定的，因为作者我正在英国大学读计算机专业**（就快完成大一的学业了）。我试着联系这些模组的原作者来征求他们的同意，让他们把这些翻译文件包含在他们的模组里面，这样大家就不用时常地来这个页面手动安装最新的翻译更新了。如果有作者愿意将我的翻译内置于他们的模组里，我会将那些模组在下面标出来（也许我还会在下面继续更新他们）。
 ## Recent ModsTrans Schedual 近期模组翻译计划
