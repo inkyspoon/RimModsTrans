@@ -8,9 +8,9 @@ The number of the Mods supported will be updated regularly **but the period is n
 
 支持的模组的数量将会不断地更新但是**更新周期并不是固定的，因为作者我正在英国大学读计算机专业**（就快完成大一的学业了）。我试着联系这些模组的原作者来征求他们的同意，让他们把这些翻译文件包含在他们的模组里面，这样大家就不用时常地来这个页面手动安装最新的翻译更新了。如果有作者愿意将我的翻译内置于他们的模组里，我会将那些模组在下面标出来（也许我还会在下面继续更新他们）。
 ## Recent ModsTrans Schedual 近期模组翻译计划
-- All [A16] [Enhanced Development (AE)](https://ludeon.com/forums/index.php?topic=18995) Mods By [Jaxxa](http://steamcommunity.com/id/jaxxa)
+- All [A16] [Enhanced Development (ED)](https://ludeon.com/forums/index.php?topic=18995) Mods By [Jaxxa](http://steamcommunity.com/id/jaxxa)
     - Progress: 12 LEFT and 2 DONE
-- 所有 [A16] [Enhanced Development (AE)](https://ludeon.com/forums/index.php?topic=18995)模组，作者: [Jaxxa](http://steamcommunity.com/id/jaxxa)
+- 所有 [A16] [Enhanced Development (ED)](https://ludeon.com/forums/index.php?topic=18995) 模组，作者: [Jaxxa](http://steamcommunity.com/id/jaxxa)
     - 进度: 剩余12个，完成2个
 
 ## Download the Latest Releases 下载最新的翻译
