@@ -32,3 +32,7 @@ I'm a **Computer Science** student in [University of Bristol](http://www.bristol
 
 我是一个英国留学生，现在在 [布里斯托大学](http://www.bristol.ac.uk/) 读**计算机科学**。**大一**。
 
+## Useful Links 其他链接
+* RimWorld Chinese Translation Team: [GitOrg](https://github.com/RimWorld-zh)
+* 边缘汉化组: [Huiji.Wiki](http://rimworldzh.huiji.wiki/wiki/About#jump-members)
+* Ludeon's Official Project of ChineseSimplified Translation (Base Game) [GitHub](https://github.com/Ludeon/RimWorld-ChineseSimplified)
