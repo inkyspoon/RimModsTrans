@@ -22,6 +22,6 @@ The number of the Mods supported will be updated regularly **but the period is n
 6. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/RWb.1.0.0) for **Repair Workbench** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=733997423&searchtext=Repair+Workbench) to view this Mod on Steam)
 7. [A16] [GitHub Download Page](https://github.com/WishingLaws/RimModsTrans/releases/tag/APG1.0.0) for **[SD] Advanced Power Generation** (Click [here](http://steamcommunity.com/sharedfiles/filedetails/?id=760088748&searchtext=%5BSD%5D+) to view this Mod on Steam)
 ## About Me 关于我
-I'm a **Computer Science** student in [University of Bristol](http://www.bristol.ac.uk/) located in UK **First Year**
+I'm a **Computer Science** student in [University of Bristol](http://www.bristol.ac.uk/) located in UK. **First Year**
 我是一个英国留学生，现在在 [布里斯托大学](http://www.bristol.ac.uk/) 读**计算机科学**。**大一**。
 
