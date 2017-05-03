@@ -16,12 +16,12 @@
   <!-- Pipes -->
 
   <sewagePipe.label>管道（白色）</sewagePipe.label>
-  <sewagePipe.description>用于将污水处理系统连接到清洗和卫生间设施的管道。</sewagePipe.description>
+  <sewagePipe.description>用于将污水处理系统连接到清洁和卫生间设施的管道。</sewagePipe.description>
   <sewagePipe_Blueprint.label>管道（白色）（蓝图）</sewagePipe_Blueprint.label>
   <sewagePipe_Frame.label>管道（白色）（建造中）</sewagePipe_Frame.label>
 
   <sewagePipeStuff.label>管道</sewagePipeStuff.label>
-  <sewagePipeStuff.description>用于将污水处理系统连接到清洗和卫生间设施的管道。</sewagePipeStuff.description>
+  <sewagePipeStuff.description>用于将污水处理系统连接到清洁和卫生间设施的管道。</sewagePipeStuff.description>
   <sewagePipeStuff_Blueprint.label>管道（蓝图）</sewagePipeStuff_Blueprint.label>
   <sewagePipeStuff_Frame.label>管道 （建造中）</sewagePipeStuff_Frame.label>
 
@@ -43,8 +43,8 @@
 
   <BasinStuff.label>洗手池</BasinStuff.label>
   <BasinStuff.description>简单干净的洗手池。</BasinStuff.description>
-  <BasinStuff_Blueprint.label>Basin（蓝图）</BasinStuff_Blueprint.label>
-  <BasinStuff_Frame.label>Basin （建造中）</BasinStuff_Frame.label>
+  <BasinStuff_Blueprint.label>洗手池（蓝图）</BasinStuff_Blueprint.label>
+  <BasinStuff_Frame.label>洗手池（建造中）</BasinStuff_Frame.label>
 
 
   <!-- Toilets -->
@@ -63,12 +63,12 @@
   <!-- Baths -->
 
   <Bathtub.label>浴缸（白色）</Bathtub.label>
-  <Bathtub.description>浴缸，一个大的开放的水容器，一个人可以洗他们的身体。</Bathtub.description>
+  <Bathtub.description>浴缸，一个大的开放的水容器，人们可以清洗他们的身体。</Bathtub.description>
   <Bathtub_Blueprint.label>浴缸（白色）（蓝图）</Bathtub_Blueprint.label>
   <Bathtub_Frame.label>浴缸（白色）（建造中）</Bathtub_Frame.label>
 
   <BathtubStuff.label>浴缸</BathtubStuff.label>
-  <BathtubStuff.description>浴缸，一个大的开放的水容器，一个人可以洗他们的身体。</BathtubStuff.description>
+  <BathtubStuff.description>浴缸，一个大的开放的水容器，人们可以清洗他们的身体。</BathtubStuff.description>
   <BathtubStuff_Blueprint.label>浴缸（蓝图）</BathtubStuff_Blueprint.label>
   <BathtubStuff_Frame.label>浴缸（建造中）</BathtubStuff_Frame.label>
 

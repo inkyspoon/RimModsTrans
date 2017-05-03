@@ -12,7 +12,7 @@
   <!-- Embrasure from ED-Embrasure -->
 
   <Embrasure.label>御敌墙</Embrasure.label>
-  <Embrasure.description>通过墙上的枪洞在家安全地射击敌人和投掷手榴弹。</Embrasure.description>
+  <Embrasure.description>通过墙上的枪洞在家安全地射击敌人并向外投掷手榴弹。</Embrasure.description>
   <Embrasure_Blueprint.label>御敌墙（蓝图）</Embrasure_Blueprint.label>
   <Embrasure_Frame.label>御敌墙（建造中）</Embrasure_Frame.label>
 
