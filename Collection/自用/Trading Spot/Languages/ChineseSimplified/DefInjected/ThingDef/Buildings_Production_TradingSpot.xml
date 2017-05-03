@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TradingSpot.label>贸易点</TradingSpot.label>
+  <TradingSpot.Description>指定一个地点来让访问你基地的商人们停留。</TradingSpot.Description>
+  <TradingSpot_Blueprint.label>贸易点（蓝图）</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>贸易点（建造中）</TradingSpot_Frame.label>
+
+
+</LanguageData>
