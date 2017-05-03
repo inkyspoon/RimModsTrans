@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Roof Support -->
+
+  <RoofSupport.label>屋顶支撑</RoofSupport.label>
+  <RoofSupport.description>一个能够撑起整个屋顶的柱子。不会通过时减少移动速度或提供掩护。</RoofSupport.description>
+  <RoofSupport_Blueprint.label>屋顶支撑（蓝图）</RoofSupport_Blueprint.label>
+  <RoofSupport_Frame.label>屋顶支撑（建造中）</RoofSupport_Frame.label>
+
+
+</LanguageData>
