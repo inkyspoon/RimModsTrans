@@ -39,11 +39,11 @@
 
   <!-- dresser -->
 
-  <ANON2Dresser.label>梳妆台</ANON2Dresser.label>
+  <ANON2Dresser.label>衣柜</ANON2Dresser.label>
   <ANON2Dresser.description>殖民者存放个人物品的地方。当与床放置在一起时，会稍微增加舒适度和休息度。</ANON2Dresser.description>
-  <ANON2Dresser_Blueprint.label>梳妆台（蓝图）</ANON2Dresser_Blueprint.label>
-  <ANON2Dresser_Blueprint_Install.label>梳妆台（蓝图）</ANON2Dresser_Blueprint_Install.label>
-  <ANON2Dresser_Frame.label>梳妆台（建造中）</ANON2Dresser_Frame.label>
+  <ANON2Dresser_Blueprint.label>衣柜（蓝图）</ANON2Dresser_Blueprint.label>
+  <ANON2Dresser_Blueprint_Install.label>衣柜（蓝图）</ANON2Dresser_Blueprint_Install.label>
+  <ANON2Dresser_Frame.label>衣柜（建造中）</ANON2Dresser_Frame.label>
 
 
   <!-- end table -->

@@ -3,33 +3,33 @@
 
   <!-- square plant pot -->
 
-  <ANON2SquarePlantPot.label>植物盆</ANON2SquarePlantPot.label>
+  <ANON2SquarePlantPot.label>方形花盆</ANON2SquarePlantPot.label>
   <ANON2SquarePlantPot.description>种植装饰性花朵在这里以愉悦附近人们的心情。</ANON2SquarePlantPot.description>
-  <ANON2SquarePlantPot_Blueprint.label>植物盆（蓝图）</ANON2SquarePlantPot_Blueprint.label>
-  <ANON2SquarePlantPot_Blueprint_Install.label>植物盆（蓝图）</ANON2SquarePlantPot_Blueprint_Install.label>
-  <ANON2SquarePlantPot_Frame.label>植物盆（建造中）</ANON2SquarePlantPot_Frame.label>
+  <ANON2SquarePlantPot_Blueprint.label>方形花盆（蓝图）</ANON2SquarePlantPot_Blueprint.label>
+  <ANON2SquarePlantPot_Blueprint_Install.label>方形花盆（蓝图）</ANON2SquarePlantPot_Blueprint_Install.label>
+  <ANON2SquarePlantPot_Frame.label>方形花盆（建造中）</ANON2SquarePlantPot_Frame.label>
 
 
   <!-- plantspot -->
 
-  <Anon2PlantSpot.label>多植物盆</Anon2PlantSpot.label>
-  <Anon2PlantSpot.description>一个可种植装饰性花朵的区域。</Anon2PlantSpot.description>
-  <Anon2PlantSpot_Blueprint.label>多植物盆（蓝图）</Anon2PlantSpot_Blueprint.label>
-  <Anon2PlantSpot_Frame.label>多植物盆（建造中）</Anon2PlantSpot_Frame.label>
+  <Anon2PlantSpot.label>花圃</Anon2PlantSpot.label>
+  <Anon2PlantSpot.description>一个可种植多种装饰性花朵的区域。</Anon2PlantSpot.description>
+  <Anon2PlantSpot_Blueprint.label>花圃（蓝图）</Anon2PlantSpot_Blueprint.label>
+  <Anon2PlantSpot_Frame.label>花圃（建造中）</Anon2PlantSpot_Frame.label>
 
 
   <!-- ornate plant pot -->
 
-  <OrnatePlantPot.label>华丽植物盆</OrnatePlantPot.label>
+  <OrnatePlantPot.label>华丽花盆</OrnatePlantPot.label>
   <OrnatePlantPot.description>种植装饰性花朵在这里以愉悦附近人们的心情。</OrnatePlantPot.description>
-  <OrnatePlantPot_Blueprint_Install.label>华丽植物盆（蓝图）</OrnatePlantPot_Blueprint_Install.label>
+  <OrnatePlantPot_Blueprint_Install.label>华丽花盆（蓝图）</OrnatePlantPot_Blueprint_Install.label>
 
 
   <!-- ornate square plant pot -->
 
-  <OrnateSquarePlantPot.label>华丽多植物盆</OrnateSquarePlantPot.label>
+  <OrnateSquarePlantPot.label>方形华丽花盆</OrnateSquarePlantPot.label>
   <OrnateSquarePlantPot.description>种植装饰性花朵在这里以愉悦附近人们的心情。</OrnateSquarePlantPot.description>
-  <OrnateSquarePlantPot_Blueprint_Install.label>华丽多植物盆（蓝图）</OrnateSquarePlantPot_Blueprint_Install.label>
+  <OrnateSquarePlantPot_Blueprint_Install.label>方形华丽花盆（蓝图）</OrnateSquarePlantPot_Blueprint_Install.label>
 
 
 </LanguageData>

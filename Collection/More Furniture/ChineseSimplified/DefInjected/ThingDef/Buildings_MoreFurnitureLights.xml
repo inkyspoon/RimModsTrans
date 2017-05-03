@@ -12,56 +12,56 @@
 
   <!-- standingd lamp (magenta) -->
 
-  <StandingLamp_Magenta.label>站立式台灯（品红）</StandingLamp_Magenta.label>
-  <StandingLamp_Magenta.description>站立式台灯</StandingLamp_Magenta.description>
-  <StandingLamp_Magenta_Blueprint.label>站立式台灯（品红）（蓝图）</StandingLamp_Magenta_Blueprint.label>
-  <StandingLamp_Magenta_Blueprint_Install.label>站立式台灯（品红）（蓝图）</StandingLamp_Magenta_Blueprint_Install.label>
-  <StandingLamp_Magenta_Frame.label>站立式台灯（品红）（建造中）</StandingLamp_Magenta_Frame.label>
+  <StandingLamp_Magenta.label>落地灯（酒红）</StandingLamp_Magenta.label>
+  <StandingLamp_Magenta.description>落地灯</StandingLamp_Magenta.description>
+  <StandingLamp_Magenta_Blueprint.label>落地灯（酒红）（蓝图）</StandingLamp_Magenta_Blueprint.label>
+  <StandingLamp_Magenta_Blueprint_Install.label>落地灯（酒红）（蓝图）</StandingLamp_Magenta_Blueprint_Install.label>
+  <StandingLamp_Magenta_Frame.label>落地灯（酒红）（建造中）</StandingLamp_Magenta_Frame.label>
 
 
   <!-- standingd lamp (yellow) -->
 
-  <StandingLamp_Yellow.label>站立式台灯（黄色）</StandingLamp_Yellow.label>
-  <StandingLamp_Yellow.description>站立式台灯</StandingLamp_Yellow.description>
-  <StandingLamp_Yellow_Blueprint.label>站立式台灯（黄色）（蓝图）</StandingLamp_Yellow_Blueprint.label>
-  <StandingLamp_Yellow_Blueprint_Install.label>站立式台灯（黄色）（蓝图）</StandingLamp_Yellow_Blueprint_Install.label>
-  <StandingLamp_Yellow_Frame.label>站立式台灯（黄色）（建造中）</StandingLamp_Yellow_Frame.label>
+  <StandingLamp_Yellow.label>落地灯（黄）</StandingLamp_Yellow.label>
+  <StandingLamp_Yellow.description>落地灯</StandingLamp_Yellow.description>
+  <StandingLamp_Yellow_Blueprint.label>落地灯（黄）（蓝图）</StandingLamp_Yellow_Blueprint.label>
+  <StandingLamp_Yellow_Blueprint_Install.label>落地灯（黄）（蓝图）</StandingLamp_Yellow_Blueprint_Install.label>
+  <StandingLamp_Yellow_Frame.label>落地灯（黄）（建造中）</StandingLamp_Yellow_Frame.label>
 
 
   <!-- standingd lamp (orange) -->
 
-  <StandingLamp_Orange.label>站立式台灯（橘色）</StandingLamp_Orange.label>
-  <StandingLamp_Orange.description>站立式台灯</StandingLamp_Orange.description>
-  <StandingLamp_Orange_Blueprint.label>站立式台灯（橘色）（蓝图）</StandingLamp_Orange_Blueprint.label>
-  <StandingLamp_Orange_Blueprint_Install.label>站立式台灯（橘色）（蓝图）</StandingLamp_Orange_Blueprint_Install.label>
-  <StandingLamp_Orange_Frame.label>站立式台灯（橘色）（建造中）</StandingLamp_Orange_Frame.label>
+  <StandingLamp_Orange.label>落地灯（橘）</StandingLamp_Orange.label>
+  <StandingLamp_Orange.description>落地灯</StandingLamp_Orange.description>
+  <StandingLamp_Orange_Blueprint.label>落地灯（橘）（蓝图）</StandingLamp_Orange_Blueprint.label>
+  <StandingLamp_Orange_Blueprint_Install.label>落地灯（橘）（蓝图）</StandingLamp_Orange_Blueprint_Install.label>
+  <StandingLamp_Orange_Frame.label>落地灯（橘）（建造中）</StandingLamp_Orange_Frame.label>
 
 
   <!-- standingd lamp (purple) -->
 
-  <StandingLamp_Purple.label>站立式台灯（紫色）</StandingLamp_Purple.label>
-  <StandingLamp_Purple.description>站立式台灯</StandingLamp_Purple.description>
-  <StandingLamp_Purple_Blueprint.label>站立式台灯（紫色）（蓝图）</StandingLamp_Purple_Blueprint.label>
-  <StandingLamp_Purple_Blueprint_Install.label>站立式台灯（紫色）（蓝图）</StandingLamp_Purple_Blueprint_Install.label>
-  <StandingLamp_Purple_Frame.label>站立式台灯（紫色）（建造中）</StandingLamp_Purple_Frame.label>
+  <StandingLamp_Purple.label>落地灯（紫）</StandingLamp_Purple.label>
+  <StandingLamp_Purple.description>落地灯</StandingLamp_Purple.description>
+  <StandingLamp_Purple_Blueprint.label>落地灯（紫）（蓝图）</StandingLamp_Purple_Blueprint.label>
+  <StandingLamp_Purple_Blueprint_Install.label>落地灯（紫）（蓝图）</StandingLamp_Purple_Blueprint_Install.label>
+  <StandingLamp_Purple_Frame.label>落地灯（紫）（建造中）</StandingLamp_Purple_Frame.label>
 
 
   <!-- standingd lamp (aqua) -->
 
-  <StandingLamp_Aqua.label>站立式台灯（水蓝色）</StandingLamp_Aqua.label>
-  <StandingLamp_Aqua.description>站立式台灯</StandingLamp_Aqua.description>
-  <StandingLamp_Aqua_Blueprint.label>站立式台灯（水蓝色）（蓝图）</StandingLamp_Aqua_Blueprint.label>
-  <StandingLamp_Aqua_Blueprint_Install.label>站立式台灯（水蓝色）（蓝图）</StandingLamp_Aqua_Blueprint_Install.label>
-  <StandingLamp_Aqua_Frame.label>站立式台灯（水蓝色）（建造中）</StandingLamp_Aqua_Frame.label>
+  <StandingLamp_Aqua.label>落地灯（水蓝）</StandingLamp_Aqua.label>
+  <StandingLamp_Aqua.description>落地灯</StandingLamp_Aqua.description>
+  <StandingLamp_Aqua_Blueprint.label>落地灯（水蓝）（蓝图）</StandingLamp_Aqua_Blueprint.label>
+  <StandingLamp_Aqua_Blueprint_Install.label>落地灯（水蓝）（蓝图）</StandingLamp_Aqua_Blueprint_Install.label>
+  <StandingLamp_Aqua_Frame.label>落地灯（水蓝）（建造中）</StandingLamp_Aqua_Frame.label>
 
 
   <!-- standingd lamp (lime) -->
 
-  <StandingLamp_Lime.label>站立式台灯（青柠色）</StandingLamp_Lime.label>
-  <StandingLamp_Lime.description>站立式台灯</StandingLamp_Lime.description>
-  <StandingLamp_Lime_Blueprint.label>站立式台灯（青柠色）（蓝图）</StandingLamp_Lime_Blueprint.label>
-  <StandingLamp_Lime_Blueprint_Install.label>站立式台灯（青柠色）（蓝图）</StandingLamp_Lime_Blueprint_Install.label>
-  <StandingLamp_Lime_Frame.label>站立式台灯（青柠色）（建造中）</StandingLamp_Lime_Frame.label>
+  <StandingLamp_Lime.label>落地灯（青）</StandingLamp_Lime.label>
+  <StandingLamp_Lime.description>落地灯</StandingLamp_Lime.description>
+  <StandingLamp_Lime_Blueprint.label>落地灯（青）（蓝图）</StandingLamp_Lime_Blueprint.label>
+  <StandingLamp_Lime_Blueprint_Install.label>落地灯（青）（蓝图）</StandingLamp_Lime_Blueprint_Install.label>
+  <StandingLamp_Lime_Frame.label>落地灯（青）（建造中）</StandingLamp_Lime_Frame.label>
 
 
 </LanguageData>

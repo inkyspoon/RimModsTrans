@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Building_ShieldStandard_research.label>ED : 标准护盾生成器</Building_ShieldStandard_research.label>
-  <Building_ShieldStandard_research.description>所有投射物都将被电磁护盾立场减速被迅速加热至蒸发点。理论基础建立在涡流制动上，然而如此复杂的系统缺不会阻拦飞出护盾外的投射物。 
+  <Building_ShieldStandard_research.label>ED : 标准护盾</Building_ShieldStandard_research.label>
+  <Building_ShieldStandard_research.description>标准的护盾，在护盾范围内抵御投射物并反击。
   </Building_ShieldStandard_research.description>
 
   <Building_ShieldFortress_research.label>ED : 堡垒护盾</Building_ShieldFortress_research.label>
-  <Building_ShieldFortress_research.description>高科技。</Building_ShieldFortress_research.description>
+  <Building_ShieldFortress_research.description>获得更大的护盾范围，甚至能够保护整个殖民地。</Building_ShieldFortress_research.description>
 
   <Building_ShieldSmall_research.label>ED : 小型护盾</Building_ShieldSmall_research.label>
-  <Building_ShieldSmall_research.description>护盾生成器的迷你版，很便携。</Building_ShieldSmall_research.description>
+  <Building_ShieldSmall_research.description>研究如何制造小型护盾，可以防御特定地点。</Building_ShieldSmall_research.description>
 
-  <Building_ShieldSIF_research.label>ED : SIF护盾生成器</Building_ShieldSIF_research.label>
-  <Building_ShieldSIF_research.description>在每个覆盖范围内物件上单独生成一个小型护盾。
+  <Building_ShieldSIF_research.label>ED : 分配式护盾</Building_ShieldSIF_research.label>
+  <Building_ShieldSIF_research.description>在覆盖范围内的每个物件上均单独生成一个小型护盾，效率更高。
 		</Building_ShieldSIF_research.description>
 
 
