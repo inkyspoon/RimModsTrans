@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_ShieldStandard.label>标准护盾</Building_ShieldStandard.label>
+  <Building_ShieldStandard.description>标准的护盾，在护盾范围内抵御投射物并反击。</Building_ShieldStandard.description>
+  <Building_ShieldStandard_Blueprint.label>标准护盾（蓝图）</Building_ShieldStandard_Blueprint.label>
+  <Building_ShieldStandard_Frame.label>标准护盾（建造中）</Building_ShieldStandard_Frame.label>
+
+  <Building_ShieldSmall.label>小型护盾</Building_ShieldSmall.label>
+  <Building_ShieldSmall.description>一个小型护盾，适用于特定的地点。</Building_ShieldSmall.description>
+  <Building_ShieldSmall_Blueprint.label>小型护盾（蓝图）</Building_ShieldSmall_Blueprint.label>
+  <Building_ShieldSmall_Frame.label>小型护盾（建造中）</Building_ShieldSmall_Frame.label>
+
+  <Building_Shield_Fortress.label>堡垒护盾</Building_Shield_Fortress.label>
+  <Building_Shield_Fortress.description>更大的护盾范围，甚至能够保护整个殖民地。</Building_Shield_Fortress.description>
+  <Building_Shield_Fortress_Blueprint.label>堡垒护盾（蓝图）</Building_Shield_Fortress_Blueprint.label>
+  <Building_Shield_Fortress_Frame.label>堡垒护盾（建造中）</Building_Shield_Fortress_Frame.label>
+
+  <Building_ShieldSIF.label>分配式护盾</Building_ShieldSIF.label>
+  <Building_ShieldSIF.description>在覆盖范围内的每个物件上均单独生成一个小型护盾，效率更高。</Building_ShieldSIF.description>
+  <Building_ShieldSIF_Blueprint.label>分配式护盾（蓝图）</Building_ShieldSIF_Blueprint.label>
+  <Building_ShieldSIF_Frame.label>分配式护盾（建造中）</Building_ShieldSIF_Frame.label>
+
+
+</LanguageData>

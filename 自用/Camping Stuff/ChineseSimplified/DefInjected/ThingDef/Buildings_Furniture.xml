@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BagBed.label>睡袋</BagBed.label>
+  <BagBed.description>一个轻巧舒适，野外露营专用的睡袋。</BagBed.description>
+
+  <TentDeployed.label>帐篷杆子</TentDeployed.label>
+  <TentDeployed.description>支撑整个帐篷。</TentDeployed.description>
+  <TentDeployed.comps.0.useLabel>收起帐篷</TentDeployed.comps.0.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsCookPortableStove.label>在便携式炉具上煮食。</DoBillsCookPortableStove.label>
+  <DoBillsCookPortableStove.verb>烹调</DoBillsCookPortableStove.verb>
+  <DoBillsCookPortableStove.gerund>烹调于</DoBillsCookPortableStove.gerund>
+
+  <DoBillsButcherFleshSpot.label>在屠宰点屠宰尸体</DoBillsButcherFleshSpot.label>
+  <DoBillsButcherFleshSpot.verb>屠宰</DoBillsButcherFleshSpot.verb>
+  <DoBillsButcherFleshSpot.gerund>屠宰于</DoBillsButcherFleshSpot.gerund>
+
+
+</LanguageData>

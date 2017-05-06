@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <TentDoor.label>帐篷门</TentDoor.label>
+  <TentDoor.description>作划分房间用途，必须手动打开和关闭，因此会减慢人们的速度。</TentDoor.description>
+
+  <TentWall.label>帐篷墙</TentWall.label>
+  <TentWall.description>一道脆弱但实用的墙。</TentWall.description>
+
+
+</LanguageData>

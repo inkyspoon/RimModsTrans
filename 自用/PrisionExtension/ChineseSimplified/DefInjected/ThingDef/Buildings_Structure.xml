@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <CellDoor.label>牢房门</CellDoor.label>
+  <CellDoor.description>囚犯和殖民者都可以打开的门。作划分房间用途。</CellDoor.description>
+  <CellDoor_Blueprint.label>牢房门 (蓝图)</CellDoor_Blueprint.label>
+  <CellDoor_Frame.label>牢房门 (建筑中)</CellDoor_Frame.label>
+
+
+  <!-- Misc -->
+
+  <SecurityCamera.label>监视器</SecurityCamera.label>
+  <SecurityCamera.description>指定一个房间作为监狱。</SecurityCamera.description>
+  <SecurityCamera_Blueprint.label>监视器 (蓝图)</SecurityCamera_Blueprint.label>
+  <SecurityCamera_Frame.label>监视器 (建筑中)</SecurityCamera_Frame.label>
+
+
+</LanguageData>

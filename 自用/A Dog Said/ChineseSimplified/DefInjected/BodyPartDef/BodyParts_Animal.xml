@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <!--[Core] <Body.label>躯干</Body.label>-->
+  <!--[Core] <Beak.label>喙</Beak.label>-->
+  <!--[Core] <InsectHead.label>头</InsectHead.label>-->
+  <!--[Core] <SnakeBody.label>躯干</SnakeBody.label>-->
+  <!--[Core] <SnakeHead.label>头</SnakeHead.label>-->
+  <!--[Core] <SnakeMouth.label>嘴</SnakeMouth.label>-->
+  <!--[Core] <InsectHeart.label>心脏</InsectHeart.label>-->
+  <!--[Core] <InsectNostril.label>鼻孔</InsectNostril.label>-->
+  <!--[Core] <InsectMouth.label>口器</InsectMouth.label>-->
+  <!--[Core] <Jowl.label>颌</Jowl.label>-->
+  <!--[Core] <Tail.label>尾</Tail.label>-->
+  <!--[Core] <LeftAntenna.label>左触角</LeftAntenna.label>-->
+  <!--[Core] <RightAntenna.label>右触角</RightAntenna.label>-->
+  <!--[Core] <Pronotum.label>前胸背板</Pronotum.label>-->
+  <!--[Core] <Shell.label>壳</Shell.label>-->
+  <!--[Core] <LeftElytra.label>左鞘翅</LeftElytra.label>-->
+  <!--[Core] <RightElytra.label>右鞘翅</RightElytra.label>-->
+  <!--[Core] <LeftTusk.label>左獠牙</LeftTusk.label>-->
+  <!--[Core] <RightTusk.label>右獠牙</RightTusk.label>-->
+  <!--[Core] <Trunk.label>象鼻</Trunk.label>-->
+  <!--[Core] <Horn.label>角</Horn.label>-->
+  <!--[Core] <HeadClaw.label>头角</HeadClaw.label>-->
+  <!--[Core] <Hump.label>驼峰</Hump.label>-->
+  <!--[Core] <TurtleShell.label>壳</TurtleShell.label>-->
+  <!--[Core] <Plastron.label>腹甲</Plastron.label>-->
+  <!--[Core] <TurtleBeak.label>喙</TurtleBeak.label>-->
+  <!--[Core] <LeftEar.label>左耳</LeftEar.label>-->
+  <!--[Core] <RightEar.label>右耳</RightEar.label>-->
+
+
+  <!-- animals legs -->
+
+  <!--[Core] <FrontLeftLeg.label>左前肢</FrontLeftLeg.label>-->
+  <!--[Core] <FrontRightLeg.label>右前肢</FrontRightLeg.label>-->
+  <!--[Core] <MiddleLeftLeg.label>左中肢</MiddleLeftLeg.label>-->
+  <!--[Core] <MiddleRightLeg.label>右中肢</MiddleRightLeg.label>-->
+  <!--[Core] <RearLeftLeg.label>左后肢</RearLeftLeg.label>-->
+  <!--[Core] <RearRightLeg.label>右后肢</RearRightLeg.label>-->
+  <!--[Core] <FrontLeftInsectLeg.label>左前肢</FrontLeftInsectLeg.label>-->
+  <!--[Core] <FrontRightInsectLeg.label>右前肢</FrontRightInsectLeg.label>-->
+  <!--[Core] <MiddleLeftInsectLeg.label>左中肢</MiddleLeftInsectLeg.label>-->
+  <!--[Core] <MiddleRightInsectLeg.label>右中肢</MiddleRightInsectLeg.label>-->
+  <!--[Core] <RearLeftInsectLeg.label>左后肢</RearLeftInsectLeg.label>-->
+  <!--[Core] <RearRightInsectLeg.label>右后肢</RearRightInsectLeg.label>-->
+  <!--[Core] <FrontLeftPaw.label>左前掌</FrontLeftPaw.label>-->
+  <!--[Core] <FrontRightPaw.label>右前掌</FrontRightPaw.label>-->
+  <!--[Core] <RearLeftPaw.label>左后掌</RearLeftPaw.label>-->
+  <!--[Core] <RearRightPaw.label>右后掌</RearRightPaw.label>-->
+  <!--[Core] <FrontLeftHoof.label>左前蹄</FrontLeftHoof.label>-->
+  <!--[Core] <FrontRightHoof.label>右前蹄</FrontRightHoof.label>-->
+  <!--[Core] <RearLeftHoof.label>左后蹄</RearLeftHoof.label>-->
+  <!--[Core] <RearRightHoof.label>右后蹄</RearRightHoof.label>-->
+  <!--[Core] <FrontLeftLegFirstClaw.label>左前肢第一爪</FrontLeftLegFirstClaw.label>-->
+  <!--[Core] <FrontLeftLegSecondClaw.label>左前肢第二爪</FrontLeftLegSecondClaw.label>-->
+  <!--[Core] <FrontLeftLegThirdClaw.label>左前肢第三爪</FrontLeftLegThirdClaw.label>-->
+  <!--[Core] <FrontLeftLegFourthClaw.label>左前肢第四爪</FrontLeftLegFourthClaw.label>-->
+  <!--[Core] <FrontLeftLegFifthClaw.label>左前肢第五爪</FrontLeftLegFifthClaw.label>-->
+  <!--[Core] <FrontRightLegFirstClaw.label>右前肢第一爪</FrontRightLegFirstClaw.label>-->
+  <!--[Core] <FrontRightLegSecondClaw.label>右前肢第二爪</FrontRightLegSecondClaw.label>-->
+  <!--[Core] <FrontRightLegThirdClaw.label>右前肢第三爪</FrontRightLegThirdClaw.label>-->
+  <!--[Core] <FrontRightLegFourthClaw.label>右前肢第四爪</FrontRightLegFourthClaw.label>-->
+  <!--[Core] <FrontRightLegFifthClaw.label>右前肢第五爪</FrontRightLegFifthClaw.label>-->
+  <!--[Core] <RearLeftLegFirstClaw.label>左后肢第一爪</RearLeftLegFirstClaw.label>-->
+  <!--[Core] <RearLeftLegSecondClaw.label>左后肢第二爪</RearLeftLegSecondClaw.label>-->
+  <!--[Core] <RearLeftLegThirdClaw.label>左后肢第三爪</RearLeftLegThirdClaw.label>-->
+  <!--[Core] <RearLeftLegFourthClaw.label>左后肢第四爪</RearLeftLegFourthClaw.label>-->
+  <!--[Core] <RearLeftLegFifthClaw.label>左后肢第五爪</RearLeftLegFifthClaw.label>-->
+  <!--[Core] <RearRightLegFirstClaw.label>右后肢第一爪</RearRightLegFirstClaw.label>-->
+  <!--[Core] <RearRightLegSecondClaw.label>右后肢第二爪</RearRightLegSecondClaw.label>-->
+  <!--[Core] <RearRightLegThirdClaw.label>右后肢第三爪</RearRightLegThirdClaw.label>-->
+  <!--[Core] <RearRightLegFourthClaw.label>右后肢第四爪</RearRightLegFourthClaw.label>-->
+  <!--[Core] <RearRightLegFifthClaw.label>右后肢第五爪</RearRightLegFifthClaw.label>-->
+
+
+</LanguageData>

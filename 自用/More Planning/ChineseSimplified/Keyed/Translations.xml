@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MorePlanning.SettingRemoveIfBuildingDespawned.label>构建之后移除计划</MorePlanning.SettingRemoveIfBuildingDespawned.label>
+  <MorePlanning.SettingRemoveIfBuildingDespawned.desc>当建造或拆除后，计划会自动移除。</MorePlanning.SettingRemoveIfBuildingDespawned.desc>
+
+  <MorePlanning.PlanGray>灰色</MorePlanning.PlanGray>
+  <MorePlanning.PlanGrayRemove>移除灰色</MorePlanning.PlanGrayRemove>
+
+  <MorePlanning.PlanBlue>蓝色</MorePlanning.PlanBlue>
+  <MorePlanning.PlanBlueRemove>移除蓝色</MorePlanning.PlanBlueRemove>
+
+  <MorePlanning.PlanRed>红色</MorePlanning.PlanRed>
+  <MorePlanning.PlanRedRemove>移除红色</MorePlanning.PlanRedRemove>
+
+  <MorePlanning.PlanYellow>黄色</MorePlanning.PlanYellow>
+  <MorePlanning.PlanYellowRemove>移除黄色</MorePlanning.PlanYellowRemove>
+
+  <MorePlanning.PlanGreen>绿色</MorePlanning.PlanGreen>
+  <MorePlanning.PlanGreenRemove>移除绿色</MorePlanning.PlanGreenRemove>
+
+  <MorePlanning.PlanDesc>设置计划中的指令。/n/n并不会在上面建造任何事物，只是单纯协助你计划未来的发展。按住[shift]键能够覆盖其他计划。</MorePlanning.PlanDesc>
+
+  <MorePlanning.PlanVisibility>计划可见性</MorePlanning.PlanVisibility>
+  <MorePlanning.PlanVisibilityDesc>换计划的可见性。</MorePlanning.PlanVisibilityDesc>
+
+  <Planning.label>计划中</Planning.label>
+
+  <MorePlanning.Opacity.label>不透明度: {0}%</MorePlanning.Opacity.label>
+  <MorePlanning.Opacity.desc>修改计划的不透明度</MorePlanning.Opacity.desc>
+
+  <MorePlanning.DefaultOpacity>(默认)</MorePlanning.DefaultOpacity>
+
+</LanguageData>

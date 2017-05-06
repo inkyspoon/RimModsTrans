@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_DefaultPrisonerPolicy.label>Prisoner</SFS_DefaultPrisonerPolicy.label>
+  <SFS_DefaultPrisonerPolicy.description>Default prisoner policy.\nWill prefer the worst meals first. Will also care about the thoughts given by meals but not very much.</SFS_DefaultPrisonerPolicy.description>
+
+
+</LanguageData>

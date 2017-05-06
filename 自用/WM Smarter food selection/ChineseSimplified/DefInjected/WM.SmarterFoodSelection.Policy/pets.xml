@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_DefaultPetPolicy.label>Animals</SFS_DefaultPetPolicy.label>
+  <SFS_DefaultPetPolicy.description>Will prefer food for animals. Hunt &gt; Grass &gt; Human corpses &gt; hay &gt; kibble..\nBut will allow other foods if those are not available.
+		</SFS_DefaultPetPolicy.description>
+
+  <SFS_PetPolicy_NoHunt.label>No hunt</SFS_PetPolicy_NoHunt.label>
+
+  <SFS_PetPolicy_Limited.label>Food4animals only</SFS_PetPolicy_Limited.label>
+  <SFS_PetPolicy_Limited.description>Only foods for animal: Grass, hay, kibble, raw human meat/corpse.\nBut also simple and nutrient paste meals (they are more cost efficient than kibble!).
+		</SFS_PetPolicy_Limited.description>
+
+  <SFS_DefaultPetPolicy_AllowTrees.label>Allow trees</SFS_DefaultPetPolicy_AllowTrees.label>
+  <SFS_DefaultPetPolicy_AllowTrees.description>Same as "animals" but allows trees. Useful for thrumbos
+		</SFS_DefaultPetPolicy_AllowTrees.description>
+
+
+</LanguageData>

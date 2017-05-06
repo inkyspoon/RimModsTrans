@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Special mental states not from mental breaks -->
+
+  <Rebelling.label>反抗</Rebelling.label>
+  <Rebelling.recoveryMessage>{0}已经不再反抗了。</Rebelling.recoveryMessage>
+  <Rebelling.baseInspectLine>正在反抗领袖。</Rebelling.baseInspectLine>
+
+
+</LanguageData>

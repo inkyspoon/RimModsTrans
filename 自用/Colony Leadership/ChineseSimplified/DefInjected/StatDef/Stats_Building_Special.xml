@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LearningSpeedFactor.label>学习速度加成</LearningSpeedFactor.label>
+  <LearningSpeedFactor.description>学习速度由这个因素影响。</LearningSpeedFactor.description>
+
+
+</LanguageData>

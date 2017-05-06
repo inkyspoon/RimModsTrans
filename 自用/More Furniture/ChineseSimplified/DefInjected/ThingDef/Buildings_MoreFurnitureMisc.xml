@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- simple research bench -->
+
+  <!--[Core] <SimpleResearchBench.label>基础研究台</SimpleResearchBench.label>-->
+  <!--[Core] <SimpleResearchBench.description>一个配有书写工具和低级科学工具的简易工作台。研究员在这里探索新事物。</SimpleResearchBench.description>-->
+  <!--[Core] <SimpleResearchBench_Blueprint.label>基础研究台（蓝图）</SimpleResearchBench_Blueprint.label>-->
+  <!--[Core] <SimpleResearchBench_Frame.label>基础研究台（建造中）</SimpleResearchBench_Frame.label>-->
+
+
+  <!-- hi-tech research bench -->
+
+  <!--[Core] <HiTechResearchBench.label>高级研究台</HiTechResearchBench.label>-->
+  <!--[Core] <HiTechResearchBench.description>一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。</HiTechResearchBench.description>-->
+  <!--[Core] <HiTechResearchBench_Blueprint.label>高级研究台（蓝图）</HiTechResearchBench_Blueprint.label>-->
+  <!--[Core] <HiTechResearchBench_Frame.label>高级研究台（建造中）</HiTechResearchBench_Frame.label>-->
+
+
+  <!-- filez cabinet -->
+
+  <ANON2FileCabinet.label>文件柜</ANON2FileCabinet.label>
+  <ANON2FileCabinet.description>一个存储有关重要技术重要研究重要实验的重要文件的重要场所。建在研究台旁边可以提高研究速度。</ANON2FileCabinet.description>
+  <ANON2FileCabinet_Blueprint.label>文件柜（蓝图）</ANON2FileCabinet_Blueprint.label>
+  <ANON2FileCabinet_Blueprint_Install.label>文件柜（蓝图）</ANON2FileCabinet_Blueprint_Install.label>
+  <ANON2FileCabinet_Frame.label>文件柜（建造中）</ANON2FileCabinet_Frame.label>
+
+
+</LanguageData>

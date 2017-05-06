@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- table (small) -->
+
+  <Anon2TableSmall.label>迷你长桌</Anon2TableSmall.label>
+  <Anon2TableSmall.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</Anon2TableSmall.description>
+  <Anon2TableSmall_Blueprint.label>迷你长桌（蓝图）</Anon2TableSmall_Blueprint.label>
+  <Anon2TableSmall_Blueprint_Install.label>迷你长桌（蓝图）</Anon2TableSmall_Blueprint_Install.label>
+  <Anon2TableSmall_Frame.label>迷你长桌（建造中）</Anon2TableSmall_Frame.label>
+
+
+  <!-- table (tiny) -->
+
+  <Anon2TableTiny.label>迷你方桌</Anon2TableTiny.label>
+  <Anon2TableTiny.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</Anon2TableTiny.description>
+  <Anon2TableTiny_Blueprint.label>迷你方桌（蓝图）</Anon2TableTiny_Blueprint.label>
+  <Anon2TableTiny_Blueprint_Install.label>迷你方桌（蓝图）</Anon2TableTiny_Blueprint_Install.label>
+  <Anon2TableTiny_Frame.label>迷你方桌（建造中）</Anon2TableTiny_Frame.label>
+
+
+  <!-- rounded table (long) -->
+
+  <Anon2RoundedTableLong.label>圆角长桌</Anon2RoundedTableLong.label>
+  <Anon2RoundedTableLong.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</Anon2RoundedTableLong.description>
+  <Anon2RoundedTableLong_Blueprint.label>圆角餐桌（蓝图）</Anon2RoundedTableLong_Blueprint.label>
+  <Anon2RoundedTableLong_Blueprint_Install.label>圆角餐桌（蓝图）</Anon2RoundedTableLong_Blueprint_Install.label>
+  <Anon2RoundedTableLong_Frame.label>圆角餐桌（建造中）</Anon2RoundedTableLong_Frame.label>
+
+
+  <!-- round table (short) -->
+
+  <Anon2RoundTableShort.label>园桌</Anon2RoundTableShort.label>
+  <Anon2RoundTableShort.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</Anon2RoundTableShort.description>
+  <Anon2RoundTableShort_Blueprint.label>园餐桌（蓝图）</Anon2RoundTableShort_Blueprint.label>
+  <Anon2RoundTableShort_Blueprint_Install.label>园餐桌（蓝图）</Anon2RoundTableShort_Blueprint_Install.label>
+  <Anon2RoundTableShort_Frame.label>园餐桌（建造中）</Anon2RoundTableShort_Frame.label>
+
+
+  <!-- Counter Basic -->
+
+  <Anon2CounterA.label>柜台</Anon2CounterA.label>
+  <Anon2CounterA.description>一个柜台。</Anon2CounterA.description>
+  <Anon2CounterA_Blueprint.label>柜台（蓝图）</Anon2CounterA_Blueprint.label>
+  <Anon2CounterA_Frame.label>柜台（建造中）</Anon2CounterA_Frame.label>
+
+
+</LanguageData>

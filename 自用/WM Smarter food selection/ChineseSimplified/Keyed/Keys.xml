@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IncapFeedMode>丧失行动能力的殖民者喂养模式</IncapFeedMode>
+  <enumSetting_Offline>原版</enumSetting_Offline>
+  <enumSetting_PrisonersLike>像囚犯一样</enumSetting_PrisonersLike>
+  <enumSetting_AnimalsLike>像动物一样</enumSetting_AnimalsLike>
+  <enumSetting_AnimalsLikeExcludeCorpses>像动物一样（不使用尸体）</enumSetting_AnimalsLikeExcludeCorpses>
+
+  <PrivilegedPrisoners>享有特权的囚犯</PrivilegedPrisoners>
+  <PrivilegedPrisoners_desc>设置为“交谈”和“招募”的囚犯会得到和殖民者同样的食物，提升心情也因此更容易加入。（当其房间内有营养机时无效。）</PrivilegedPrisoners_desc>
+
+  <PrefNutrientPasteOverTasty>比起吃生食更宁愿吃营养膏</PrefNutrientPasteOverTasty>
+  <PrefNutrientPasteOverTasty_desc>如果启用，你的殖民者将会比起吃生食（草莓，牛奶）更宁愿吃营养膏。\n如果你想要保留生食来制作更加经济的营养膏，这会很实用。</PrefNutrientPasteOverTasty_desc>
+
+  <PetsPreferHunt>宠物喜欢打猎</PetsPreferHunt>
+  <PetsPreferHunt_desc>当没有受伤时，比起去仓库吃粮食，宠物总会先尝试在它们被允许的范围内寻找猎物。</PetsPreferHunt_desc>
+
+  <ShowAdvancedOptions>显示高级选项</ShowAdvancedOptions>
+  <ShowAdvancedOptions_desc>显示高级选项。</ShowAdvancedOptions_desc>
+
+  <ControlPets>开启宠物控制</ControlPets>
+  <ControlPets_desc>如果禁用，任何派系的被驯服的动物都将会按照原版获取食物。</ControlPets_desc>
+  <ControlPrisoners>开启囚犯控制</ControlPrisoners>
+  <ControlPrisoners_desc>如果禁用，殖民者将会正常喂食囚犯。</ControlPrisoners_desc>
+  <ControlColonists>开启殖民者控制</ControlColonists>
+  <ControlColonists_desc>开启殖民者控制</ControlColonists_desc>
+
+  <PetsSafeHuntMaxStrenghtRatio>宠物狩猎强度比值</PetsSafeHuntMaxStrenghtRatio>
+  <PetsSafeHuntMaxStrenghtRatio_desc>你的宠物将不会狩猎比自身强度比值高的猎物。\n有效防止宠物受伤。如果没有其它可选食物源时无效。\n原版默认比值为0.5</PetsSafeHuntMaxStrenghtRatio_desc>
+
+  <UseCorpsesForTaming>用尸体来驯养</UseCorpsesForTaming>
+  <UseCorpsesForTaming_desc>！！测试中！！殖民者将会使用尸体来驯服或训练动物。</UseCorpsesForTaming_desc>
+
+  <UseHumanlikeCorpsesForTaming>用人类尸体来驯养</UseHumanlikeCorpsesForTaming>
+  <UseHumanlikeCorpsesForTaming_desc>！！测试中！！殖民者将会使用人类尸体来驯服或训练动物。</UseHumanlikeCorpsesForTaming_desc>
+
+  <ExtendedFoodOptimality>拓展食物分数</ExtendedFoodOptimality>
+  <ExtendedFoodOptimality_desc>用更聪明，更有效的方式来决定食物的优先级。可能导致短而重复的掉帧。</ExtendedFoodOptimality_desc>
+
+  <PrintPrefsStart>开始游戏时显示兼容报告</PrintPrefsStart>
+  <PrintPrefsStart_desc>启动游戏时显示所有食物偏好和所有物种饮食。如果你想要检查mod是否和其它食物mod兼容的话会很有用。\n更改此选择将会立即显示报告。</PrintPrefsStart_desc>
+
+  <ReportMode>开始游戏时显示兼容报告</ReportMode>
+  <ReportMode_desc>启动游戏时显示所有食物偏好和所有物种饮食。如果你想要检查mod是否和其它食物mod兼容的话会很有用。\n更改此选择将会立即显示报告。</ReportMode_desc>
+
+  <enumSetting_ReportMode_Offline>禁用</enumSetting_ReportMode_Offline>
+  <enumSetting_ReportMode_DefName>显示定义名称</enumSetting_ReportMode_DefName>
+  <enumSetting_ReportMode_Label>显示标签</enumSetting_ReportMode_Label>
+
+  <SeparatedNutrientPaste>营养机制作特殊的食人族食物</SeparatedNutrientPaste>
+  <SeparatedNutrientPaste_desc>营养膏合成机将会生产出另一种营养膏，如果向其中加入人肉的话。\n避免食人族和非食人族食物堆叠在一起或原料混合在一起。但是这会导致你的存档对此mod产生依赖。</SeparatedNutrientPaste_desc>
+
+  <DispenseXcount>营养膏x{0}</DispenseXcount>
+  <DispenseXcount_desc>让营养膏合成机制作{0}份食物。</DispenseXcount_desc>
+
+  <StandardMode>标准模式</StandardMode>
+  <StandardMode_desc>所有食物。先用普通食物，然后用昆虫和人肉。</StandardMode_desc>
+
+  <CannibalMode>食人族模式</CannibalMode>
+  <CannibalMode_desc>偏好用人肉。</CannibalMode_desc>
+
+  <CannibalCleanMode>食人族苦行僧模式</CannibalCleanMode>
+  <CannibalCleanMode_desc>先用人肉，然后用普通肉（不包括昆虫肉）。</CannibalCleanMode_desc>
+
+  <CleanMode>苦行僧模式</CleanMode>
+  <CleanMode_desc>不用人肉或昆虫肉。</CleanMode_desc>
+
+  <DispenserModeWarning>只影响手动合成</DispenserModeWarning>
+  <ManualDispenseCostWarning>手动合成将消耗蓄电电量{0} x {1} = {2}Wd。</ManualDispenseCostWarning>
+
+  <CannibalMealLabel>{0}（食人族）</CannibalMealLabel>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Camping.RepairTent>修理帐篷</Camping.RepairTent>
+  <Camping.RepairNeeded>需要{0}{1}</Camping.RepairNeeded>
+
+</LanguageData>

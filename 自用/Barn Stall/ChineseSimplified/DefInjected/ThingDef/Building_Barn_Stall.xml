@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ++++++++++++++++++++++++++++++++BarnStall++++++++++++++++++++++++++++++++ -->
+
+  <BarnStall.label>谷舍</BarnStall.label>
+  <BarnStall.description>一个能让所有动物休息的地方。</BarnStall.description>
+  <BarnStall_Blueprint.label>谷舍（蓝图）</BarnStall_Blueprint.label>
+  <BarnStall_Blueprint_Install.label>谷舍（蓝图）</BarnStall_Blueprint_Install.label>
+  <BarnStall_Frame.label>谷舍（蓝图）</BarnStall_Frame.label>
+
+
+</LanguageData>

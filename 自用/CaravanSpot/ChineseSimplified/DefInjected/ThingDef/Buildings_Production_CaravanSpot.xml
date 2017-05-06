@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CaravanSpot.label>商队集合点</CaravanSpot.label>
+  <CaravanSpot.Description>指定一个地方来让你的商队集合。</CaravanSpot.Description>
+  <CaravanSpot_Blueprint.label>商队集合点（蓝图）</CaravanSpot_Blueprint.label>
+  <CaravanSpot_Frame.label>商队集合点（建造中）</CaravanSpot_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LessonPositive.stages.0.label>学到了新东西</LessonPositive.stages.0.label>
+  <LessonPositive.stages.0.description>我今天上了一堂不错的课。</LessonPositive.stages.0.description>
+
+  <LessonNegative.stages.0.label>不好的课堂</LessonNegative.stages.0.label>
+  <LessonNegative.stages.0.description>我有理由不喜欢今天课。</LessonNegative.stages.0.description>
+
+  <TaughtCL.stages.0.label>传授了其他人知识</TaughtCL.stages.0.label>
+  <TaughtCL.stages.0.description>传授知识给其他人的感觉真不错。</TaughtCL.stages.0.description>
+
+  <AttendedElection.stages.0.label>参与了一场选举</AttendedElection.stages.0.label>
+  <AttendedElection.stages.0.description>我参与了我们举办的选举，希望我们投对了人。</AttendedElection.stages.0.description>
+
+  <ElectedLeader.stages.0.label>当选</ElectedLeader.stages.0.label>
+  <ElectedLeader.stages.0.description>我很荣幸其他人选了我当他们的领袖。</ElectedLeader.stages.0.description>
+
+  <ElectedLeaderJealous.stages.0.label>嫉妒新的领袖</ElectedLeaderJealous.stages.0.label>
+  <ElectedLeaderJealous.stages.0.description>这不公平！我才应该是新的领袖</ElectedLeaderJealous.stages.0.description>
+
+  <LeaderEnd.stages.0.label>领导期结束</LeaderEnd.stages.0.label>
+  <LeaderEnd.stages.0.description>我想念当领袖的好处。</LeaderEnd.stages.0.description>
+
+  <LeaderArrested.stages.0.label>领导期被强制结束</LeaderArrested.stages.0.label>
+  <LeaderArrested.stages.0.description>他们要翻天了，这简直是暴行！</LeaderArrested.stages.0.description>
+
+  <LeaderArrestedColonist.stages.0.label>领袖被拘捕</LeaderArrestedColonist.stages.0.label>
+  <LeaderArrestedColonist.stages.0.description>太感谢了，人人厌恶的领袖终于被制裁了！</LeaderArrestedColonist.stages.0.description>
+
+  <RivalLeader.stages.0.label>死对头当选了</RivalLeader.stages.0.label>
+  <RivalLeader.stages.0.description>我的死对头当选了，呵呵。</RivalLeader.stages.0.description>
+
+  <InspiratedL.stages.0.label>被领袖{0}启发</InspiratedL.stages.0.label>
+  <InspiratedL.stages.0.description>一个领袖鼓励了我，我现在很有动力！</InspiratedL.stages.0.description>
+
+  <InspiratedLI.stages.0.label>启发了{0}</InspiratedLI.stages.0.label>
+  <InspiratedLI.stages.0.description>启发他人的感觉真棒！</InspiratedLI.stages.0.description>
+
+  <LeaderDied.stages.0.label>我们的领袖{0}去世了</LeaderDied.stages.0.label>
+  <LeaderDied.stages.0.description>多么棒的一个领袖啊，我会想念他的。</LeaderDied.stages.0.description>
+
+  <LeaderDiedRival.stages.0.label>领袖{0}死了（死对头）</LeaderDiedRival.stages.0.label>
+  <LeaderDiedRival.stages.0.description>这家伙终于归西了。</LeaderDiedRival.stages.0.description>
+
+
+</LanguageData>

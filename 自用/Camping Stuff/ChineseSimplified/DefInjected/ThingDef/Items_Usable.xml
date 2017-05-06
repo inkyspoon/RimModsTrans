@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeployableTent.label>帐篷</DeployableTent.label>
+  <DeployableTent.description>一个帐篷。</DeployableTent.description>
+  <DeployableTent.comps.1.useLabel>搭建帐篷到...</DeployableTent.comps.1.useLabel>
+
+  <DeployableTentMedium.label>帐篷 (中)</DeployableTentMedium.label>
+  <DeployableTentMedium.description>一个中型帐篷。</DeployableTentMedium.description>
+  <DeployableTentMedium.comps.1.useLabel>搭建帐篷到...</DeployableTentMedium.comps.1.useLabel>
+
+  <DeployableTentBig.label>帐篷 (大)</DeployableTentBig.label>
+  <DeployableTentBig.description>一个大帐篷，共有三个房间。</DeployableTentBig.description>
+  <DeployableTentBig.comps.1.useLabel>搭建帐篷到...</DeployableTentBig.comps.1.useLabel>
+
+
+</LanguageData>

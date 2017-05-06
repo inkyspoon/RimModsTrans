@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nutrient dispenser -->
+
+  <!--[Core] <NutrientPasteDispenser.label>营养膏合成机</NutrientPasteDispenser.label>-->
+  <!--[Core] <NutrientPasteDispenser.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间——但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser.description>-->
+  <!--[Core] <NutrientPasteDispenser_Blueprint.label>营养膏合成机（蓝图）</NutrientPasteDispenser_Blueprint.label>-->
+  <!--[Core] <NutrientPasteDispenser_Frame.label>营养膏合成机（建造中）</NutrientPasteDispenser_Frame.label>-->
+
+
+</LanguageData>

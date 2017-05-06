@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <leaderAura1.label>领袖光环-植物学家</leaderAura1.label>
+  <leaderAura1.stages.0.label>Level 1</leaderAura1.stages.0.label>
+  <leaderAura1.stages.1.label>Level 2</leaderAura1.stages.1.label>
+  <leaderAura1.stages.2.label>Level 3</leaderAura1.stages.2.label>
+
+  <leaderAura2.label>领袖光环-战士</leaderAura2.label>
+  <leaderAura2.stages.0.label>Level 1</leaderAura2.stages.0.label>
+  <leaderAura2.stages.1.label>Level 2</leaderAura2.stages.1.label>
+  <leaderAura2.stages.2.label>Level 3</leaderAura2.stages.2.label>
+
+  <leaderAura3.label>领袖光环-木匠</leaderAura3.label>
+  <leaderAura3.stages.0.label>Level 1</leaderAura3.stages.0.label>
+  <leaderAura3.stages.1.label>Level 2</leaderAura3.stages.1.label>
+  <leaderAura3.stages.2.label>Level 3</leaderAura3.stages.2.label>
+
+  <leaderAura4.label>领袖光环-科学家</leaderAura4.label>
+  <leaderAura4.stages.0.label>Level 1</leaderAura4.stages.0.label>
+  <leaderAura4.stages.1.label>Level 2</leaderAura4.stages.1.label>
+  <leaderAura4.stages.2.label>Level 3</leaderAura4.stages.2.label>
+
+
+</LanguageData>

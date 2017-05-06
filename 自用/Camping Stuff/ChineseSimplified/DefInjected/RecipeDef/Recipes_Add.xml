@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIAL: These Recipes from ThingDef with <recipeMaker>, generate by RimTrans -->
+
+
+  <!-- Recipe Users: ElectricTailoringBench HandTailoringBench CraftingSpot -->
+
+  <Make_DeployableTent.label>制做帐篷 (小)</Make_DeployableTent.label>
+  <Make_DeployableTent.description>制做帐篷 (小)</Make_DeployableTent.description>
+  <Make_DeployableTent.jobString>正在制做帐篷 (小)。</Make_DeployableTent.jobString>
+
+  <Make_DeployableTentMedium.label>制做帐篷 (中)</Make_DeployableTentMedium.label>
+  <Make_DeployableTentMedium.description>制做帐篷 (中)</Make_DeployableTentMedium.description>
+  <Make_DeployableTentMedium.jobString>正在制做帐篷 (中)。</Make_DeployableTentMedium.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench HandTailoringBench -->
+
+  <Make_DeployableTentBig.label>制做帐篷 (大)</Make_DeployableTentBig.label>
+  <Make_DeployableTentBig.description>制做帐篷 (大)</Make_DeployableTentBig.description>
+  <Make_DeployableTentBig.jobString>正在制做帐篷 (大)。</Make_DeployableTentBig.jobString>
+
+
+</LanguageData>

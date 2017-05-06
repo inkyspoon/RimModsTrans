@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_boots.label>靴子</Apparel_boots.label>
+  <Apparel_boots.description>适合长途跋涉的耐用靴子。</Apparel_boots.description>
+
+  <Apparel_sandals.label>凉鞋</Apparel_sandals.label>
+  <Apparel_sandals.description>为了夏天凉爽而做成的简易凉鞋。</Apparel_sandals.description>
+
+  <Apparel_shoes.label>鞋子</Apparel_shoes.label>
+  <Apparel_shoes.description>比靴子看着更优雅的鞋子，不过也更难制作。</Apparel_shoes.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Children -->
+
+  <FSStylist.label>脸部细节设计台</FSStylist.label>
+  <FSStylist.Description>尽情设计你的脸蛋的地方。</FSStylist.Description>
+  <FSStylist_Blueprint.label>脸部细节设计台（蓝图）</FSStylist_Blueprint.label>
+  <FSStylist_Blueprint_Install.label>脸部细节设计台（蓝图）</FSStylist_Blueprint_Install.label>
+  <FSStylist_Frame.label>脸部细节设计台（建造中）</FSStylist_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <jane.label>jane</jane.label>
+  <daria.label>daria</daria.label>
+  <quinn.label>quinn</quinn.label>
+  <stacy.label>stacy</stacy.label>
+  <tiffany.label>tiffany</tiffany.label>
+  <sandi.label>sandi</sandi.label>
+  <mel.label>mel</mel.label>
+  <short.label>short</short.label>
+  <laijde.label>laijde</laijde.label>
+  <panda.label>panda</panda.label>
+  <curly.label>curly</curly.label>
+  <cleo.label>cleo</cleo.label>
+  <trent.label>trent</trent.label>
+  <tom.label>tom</tom.label>
+  <upchuck.label>upchuck</upchuck.label>
+  <jamie.label>jamie</jamie.label>
+  <jeffy.label>jeffy</jeffy.label>
+  <joey.label>joey</joey.label>
+  <bushy.label>bushy</bushy.label>
+  <trimmed.label>trimmed</trimmed.label>
+  <crisis.label>crisis</crisis.label>
+  <guard.label>guard</guard.label>
+  <jr.label>jr</jr.label>
+  <ruff.label>ruff</ruff.label>
+  <bun.label>bun</bun.label>
+  <fierce.label>fierce</fierce.label>
+  <marcie.label>marcie</marcie.label>
+  <nora.label>nora</nora.label>
+  <regal.label>regal</regal.label>
+  <royal.label>royal</royal.label>
+  <karl.label>karl</karl.label>
+  <olof.label>olof</olof.label>
+  <erik.label>erik</erik.label>
+  <manbun.label>manbun</manbun.label>
+  <jack.label>jack</jack.label>
+  <sokka.label>sokka</sokka.label>
+
+
+</LanguageData>

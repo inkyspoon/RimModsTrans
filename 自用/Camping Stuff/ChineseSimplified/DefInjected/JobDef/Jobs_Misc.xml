@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeployTent.reportString>正在搭建帐篷。</DeployTent.reportString>
+  <PackTent.reportString>正在收拾帐篷。</PackTent.reportString>
+  <RepairTent.reportString>正在修理帐篷。</RepairTent.reportString>
+
+
+</LanguageData>
